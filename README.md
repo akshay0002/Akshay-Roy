@@ -1,4 +1,3 @@
-# Akshay-Roy
 # Hi there! 👋
 
 I'm [Your Name], a passionate [Your Profession] from [Your Location]. Welcome to my GitHub profile! 🚀
